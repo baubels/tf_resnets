@@ -1,2 +1,3 @@
-# tf_resnets
-code for custom resnet18 implementation in tensorflow
+# Resnets in Tensorflow
+
+This is a loose paper implementation of Resnet18 done in Tensorflow.
